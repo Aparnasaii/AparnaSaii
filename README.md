@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aparna</h1>
 <h3 align="center">Computer Science student | Aspiring Frontend Developer from India 🇮🇳</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aparnasaii&label=Profile%20views&color=0e75b6&style=flat" alt="aparnasaii" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aparnasaii&theme=flat&margin-w=10" alt="aparnasaii" />
-</p>
 
 - 🔭 I’m currently focused on **strengthening my coding skills and building strong fundamentals**
 
