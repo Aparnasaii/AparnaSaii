@@ -70,18 +70,6 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aparnasaii&show_icons=true&theme=tokyonight" style="max-width:95%;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparnasaii&theme=tokyonight" style="max-width:95%;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparnasaii&layout=compact&theme=tokyonight" style="max-width:95%;" />
-</p>
-
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aparnasaii&theme=react-dark" style="max-width:100%;" />
