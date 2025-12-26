@@ -1,24 +1,24 @@
-<h1 align="center">🚀 Hi 👋, I'm Aparna</h1>
-<h3 align="center">Computer Science Student | Frontend • Backend • DevOps Learner 🇮🇳</h3>
+<h1>🚀 Hi 👋, I'm Aparna</h1>
+<h3>Computer Science Student | Frontend • Backend • DevOps Learner 🇮🇳</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=aparnasaii&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=aparnasaii&theme=radical&margin-w=10"/>
 </p>
 
 <!-- CODING GIF -->
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:90%; height:auto;" />
 </p>
 
 ---
 
-<h2 align="center">🌈 About Me</h2>
+<h2>🌈 About Me</h2>
 
-<p align="center">
+<p>
 🔭 Improving coding skills & exploring real-world technologies <br/>
 🌱 Learning Full Stack Development & DevOps <br/>
 👯 Open to beginner-friendly collaborations <br/>
@@ -28,31 +28,31 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<table align="center">
+<table>
 <tr>
-<td align="center"><h3>💻 Frontend</h3></td>
-<td align="center"><h3>⚙️ Backend</h3></td>
-<td align="center"><h3>☁️ DevOps</h3></td>
+<td><h3>💻 Frontend</h3></td>
+<td><h3>⚙️ Backend</h3></td>
+<td><h3>☁️ DevOps</h3></td>
 </tr>
 
 <tr>
-<td align="center">
+<td>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/><br/><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </td>
 
-<td align="center">
+<td>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 </td>
 
-<td align="center">
+<td>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/><br/><br/>
@@ -61,19 +61,19 @@
 </tr>
 </table>
 
+---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2>📊 GitHub Analytics</h2>
 
-<!-- CONTRIBUTION GRAPH -->
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aparnasaii&theme=react-dark" style="max-width:100%;" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2>🌐 Connect With Me</h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/aparnauppala/">
     <img src="https://img.shields.io/badge/LinkedIn-Aparna-blue?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -82,7 +82,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
 ✨ <b>Learning • Building • Growing</b> ✨
 </p>
 
