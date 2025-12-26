@@ -1,13 +1,7 @@
 <h1>🚀 Hi 👋, I'm Aparna</h1>
 <h3>Computer Science Student | Frontend • Backend • DevOps Learner 🇮🇳</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aparnasaii&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=aparnasaii&theme=radical&margin-w=10"/>
-</p>
 
 <!-- CODING GIF -->
 <p>
