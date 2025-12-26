@@ -61,12 +61,6 @@
 </tr>
 </table>
 
-<!-- DEVOPS GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" style="max-width:85%; height:auto;" />
-</p>
-
----
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
