@@ -1,51 +1,73 @@
-<h1 align="center">Hi 👋, I'm Aparna</h1>
-<h3 align="center">Computer Science student | Aspiring Frontend Developer from India 🇮🇳</h3>
+<h1 align="center">✨ Hi 👋, I'm Aparna ✨</h1>
+<h3 align="center">🚀 Computer Science Student | Aspiring Frontend Developer 🇮🇳</h3>
 
-
-- 🔭 I’m currently focused on **strengthening my coding skills and building strong fundamentals**
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Java, Spring Boot**
-
-- 👯 I’m looking to collaborate on **beginner-friendly web development and open-source projects**
-
-- 👨‍💻 GitHub profile: [https://github.com/aparnasaii](https://github.com/aparnasaii)
-
-- 📝 I plan to start writing technical blogs soon ✍️
-
-- 💬 Ask me about **Web Development basics, Git & GitHub, Java fundamentals**
-
-- 📫 How to reach me: **2200090024csit@gmail.com**
-
-- 📄 Experience: **Student | Continuous learner | Tech enthusiast**
-
-- ⚡ Fun fact: **I believe consistency matters more than speed 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aparnauppala/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aparnasaii&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools (Learning & Hands-on):</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aparnasaii&theme=gruvbox&margin-w=15"/>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparnasaii&layout=compact" />
+---
+
+### 🌟 About Me
+- 🔭 Currently focusing on **learning & strengthening coding fundamentals**
+- 🌱 Learning **Frontend + Backend technologies**
+- 👯 Open to **beginner-friendly collaborations**
+- 💬 Ask me about **Web Dev | Java | Git & GitHub**
+- ⚡ Fun fact: **Consistency beats talent 🚀**
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparnasaii&show_icons=true" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparnasaii" />
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aparnasaii&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparnasaii&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparnasaii&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aparnauppala/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aparna-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:2200090024csit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <i>Learning every day. Building step by step. Growing consistently.</i> ✨
 </p>
