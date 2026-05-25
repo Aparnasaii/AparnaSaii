@@ -1,86 +1,26 @@
-<h1>🚀 Hi 👋, I'm Aparna</h1>
-<h3>Computer Science Student | Frontend • Backend • DevOps Learner 🇮🇳</h3>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20Aparna!%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=b0c4de"/>
 
+<br/>
 
-<!-- CODING GIF -->
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:90%; height:auto;" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7EB8F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Real-World+Projects+%F0%9F%94%A8;Open+to+Collaborations+%26+Internships+%F0%9F%A4%9D;Consistency+beats+speed+%E2%9A%A1)](https://git.io/typing-svg)
 
----
+<br/>
 
-<h2>🌈 About Me</h2>
+![Profile Views](https://komarev.com/ghpvc/?username=aparnasaii&color=7EB8F7&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/aparnasaii?style=flat-square&color=7EB8F7&label=Followers)
 
-<p>
-🔭 Improving coding skills & exploring real-world technologies <br/>
-🌱 Learning Full Stack Development & DevOps <br/>
-👯 Open to beginner-friendly collaborations <br/>
-💬 Ask me about Web Development, Java, Git & GitHub <br/>
-⚡ Fun fact: Consistency beats speed 🚀
-</p>
+</div>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td><h3>💻 Frontend</h3></td>
-<td><h3>⚙️ Backend</h3></td>
-<td><h3>☁️ DevOps</h3></td>
-</tr>
-
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/><br/><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</td>
-
-<td>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-</td>
-
-<td>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
-</td>
-</tr>
-</table>
-
----
-
-<h2>📊 GitHub Analytics</h2>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aparnasaii&theme=react-dark" style="max-width:100%;" />
-</p>
-
----
-
-<h2>🌐 Connect With Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/aparnauppala/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aparna-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:2200090024csit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
-<p>
-✨ <b>Learning • Building • Growing</b> ✨
-</p>
-
-<!-- OPTIONAL SNAKE -->
-<!--
-![Snake animation](https://github.com/aparnasaii/aparnasaii/blob/output/github-contribution-grid-snake.svg)
--->
+```yaml
+Name     : Aparna Uppala
+Role     : Computer Science Student
+Focus    : Full Stack Development + DevOps
+Status   : Actively learning & building projects
+Location : India 🇮🇳
+Motto    : "Consistency beats speed 🚀"
